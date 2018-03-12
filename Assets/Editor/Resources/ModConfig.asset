@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: testMission
-  title: Test Missions
-  description: 'LED Grid 1.1
+  id: ledGrid
+  title: LED Grid
+  description: 'LED Grid 1.11
 
     Maybe they were Christmas lights in a previous life?
 
@@ -25,6 +25,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/LED%20Grid.html'
-  version: 1.1
+  version: 1.11
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 711def2eb7a5d473a8d61f9ebe2b54bb, type: 3}
