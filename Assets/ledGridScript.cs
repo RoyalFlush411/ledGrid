@@ -110,7 +110,7 @@ public class ledGridScript : MonoBehaviour
 				}
 				else if (command.Equals("press dacb", StringComparison.InvariantCultureIgnoreCase))
 				{
-						return new KMSelectable[] { dButton, aButton, cButton, dButton };
+						return new KMSelectable[] { dButton, aButton, cButton, bButton };
 				}
 				else if (command.Equals("press dbac", StringComparison.InvariantCultureIgnoreCase))
 				{

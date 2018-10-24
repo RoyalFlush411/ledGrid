@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: ledGrid
   title: LED Grid
-  description: 'LED Grid 1.11
+  description: 'LED Grid 1.12
 
     Maybe they were Christmas lights in a previous life?
 
@@ -25,6 +25,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/LED%20Grid.html'
-  version: 1.11
+  version: 1.12
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 089c6a2604452460fa1dc9971f0161c1, type: 3}
